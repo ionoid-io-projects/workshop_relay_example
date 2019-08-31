@@ -50,5 +50,5 @@ chmod +x relay
 To quit or stop the program click on **Ctrl+C**
 
 # Ressources
-
+http://blog.whatgeek.com.pt/2018/05/use-a-raspberry-pi-and-a-relay-to-control-a-lamp/
 
