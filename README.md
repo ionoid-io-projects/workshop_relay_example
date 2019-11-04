@@ -1,5 +1,5 @@
-# workshop_relay_example
-Material for Raspberry Pi workshop
+# Workshop relay example
+Relay module gives us the possibility to protect our Raspberry Pi and to interact with a device that needs a power source higher than 5v, in this example we will see how to use the Relay module with Raspberry Pi.  
 
 # Wiring
 
